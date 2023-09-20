@@ -7,8 +7,8 @@
     <ProjectGuid>{3D5410EE-A0B3-4270-977E-B0046491821F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.PozhdinAA.Sprint1.Task1.V0.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.PozhdinAA.Sprint1.Task1.V0.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.PozhdinAA.Sprint1.Task1.V27.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.PozhdinAA.Sprint1.Task1.V27.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
