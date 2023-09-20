@@ -2,9 +2,9 @@
 using System;
 
 
-using Tyuiu.PozhdinAA.Sprint1.Task1.V0.Lib;
+using Tyuiu.PozhdinAA.Sprint1.Task1.V27.Lib;
 
-namespace Tyuiu.PozhdinAA.Sprint1.Task1.V0.Test
+namespace Tyuiu.PozhdinAA.Sprint1.Task1.V27.Test
 {
     [TestClass]
     public class DataServiceTest

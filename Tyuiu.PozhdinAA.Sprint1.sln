@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PozhdinAA.Sprint1.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{1C9FFB9D-4635-4F9B-A55E-9EA686377819}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PozhdinAA.Sprint1.Task1.V0", "Tyuiu.PozhdinAA.Sprint1.Task1.V0\Tyuiu.PozhdinAA.Sprint1.Task1.V0.csproj", "{B988BF22-4D4B-4B6F-9421-0C3F1C754896}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PozhdinAA.Sprint1.Task1.V27", "Tyuiu.PozhdinAA.Sprint1.Task1.V0\Tyuiu.PozhdinAA.Sprint1.Task1.V27.csproj", "{B988BF22-4D4B-4B6F-9421-0C3F1C754896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PozhdinAA.Sprint1.Task1.V0.Test", "Tyuiu.PozhdinAA.Sprint1.Task1.V0.Test\Tyuiu.PozhdinAA.Sprint1.Task1.V0.Test.csproj", "{AAE98311-4BF0-4FB9-B98C-8681936ADF29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PozhdinAA.Sprint1.Task1.V27.Test", "Tyuiu.PozhdinAA.Sprint1.Task1.V0.Test\Tyuiu.PozhdinAA.Sprint1.Task1.V27.Test.csproj", "{AAE98311-4BF0-4FB9-B98C-8681936ADF29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PozhdinAA.Sprint1.Task1.V0.Lib", "Tyuiu.PozhdinAA.Sprint1.Task1.V0.Lib\Tyuiu.PozhdinAA.Sprint1.Task1.V0.Lib.csproj", "{3D5410EE-A0B3-4270-977E-B0046491821F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PozhdinAA.Sprint1.Task1.V27.Lib", "Tyuiu.PozhdinAA.Sprint1.Task1.V0.Lib\Tyuiu.PozhdinAA.Sprint1.Task1.V27.Lib.csproj", "{3D5410EE-A0B3-4270-977E-B0046491821F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
