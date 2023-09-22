@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.PozhdinAA.Sprint1.Task2.V23.Lib;
+using Tyuiu.PozhdinAA.Sprint1.Task3.V12.Lib;
 
-namespace Tyuiu.PozhdinAA.Sprint1.Task2.V23
+namespace Tyuiu.PozhdinAA.Sprint1.Task3.V12
 {
     class Program
     {
@@ -18,32 +18,29 @@ namespace Tyuiu.PozhdinAA.Sprint1.Task2.V23
             Console.WriteLine("***************************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                                       *");
             Console.WriteLine("* Тема: Базовые навыки работы с C#                                                                *");
-            Console.WriteLine("* Задание #2                                                                                      *");
-            Console.WriteLine("* Вариант #23                                                                                     *");
+            Console.WriteLine("* Задание #3                                                                                      *");
+            Console.WriteLine("* Вариант #12                                                                                     *");
             Console.WriteLine("* Выполнил: Пождин Александр Андреевич | АСОиУб-23-1                                              *");
             Console.WriteLine("***************************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                        *");
-            Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, выполняет               *");
-            Console.WriteLine("* указанные расчёты и печатает результат на экране.                                               *");
+            Console.WriteLine("* Написать программу для вычисления площади прямоугольного треугольника по длинам двух катетов.   *");
             Console.WriteLine("*                                                                                                 *");
             Console.WriteLine("***************************************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                                *");
             Console.WriteLine("***************************************************************************************************");
-            Console.WriteLine("***************************************************************************************************");
-            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                                *");
-            Console.WriteLine("***************************************************************************************************");
 
-            int x;
-
-            Console.WriteLine("Введите кол-во минут для конвертации в секунды:                                                   *");
-            x = Convert.ToInt32(Console.ReadLine());
+            double lengthCathetus1 = 5;
+            double lengthCathetus2 = 5;
+            Console.WriteLine("Сторона A прямоугольно треугольника = " + lengthCathetus1);
+            Console.WriteLine("Сторона B прямоугольно треугольника = " + lengthCathetus2);
 
             Console.WriteLine("***************************************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                                                      *");
+            Console.WriteLine("* РЕУЗЛЬТАТ:                                                                                      *");
             Console.WriteLine("***************************************************************************************************");
-            Console.WriteLine("Конвертированное значение количества минут в секунды:" + Convert.ToInt32(60 * x));
-            Console.ReadLine();
 
+            Console.WriteLine("Площадь прямоуголного треугольника = " + ds.TriangleArea(lengthCathetus1, lengthCathetus2));
+
+            Console.ReadKey();
         }
     }
 }
